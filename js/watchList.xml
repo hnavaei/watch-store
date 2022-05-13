@@ -1,0 +1,2219 @@
+<root>
+    <watch id="1000" data-group="0">
+        <brand name="اورینت">Orient</brand>
+        <code>CUBRE004B</code>
+        <price>ناموجود</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1001" data-group="0">
+        <brand name="هارکس">Haurex</brand>
+        <code>ZQHX-7A365US1</code>
+        <price>ناموجود</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1002" data-group="0">
+        <brand name="هارکس">Haurex</brand>
+        <code>ZQHX-9A367UNH</code>
+        <price>ناموجود</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1003" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MQ-24-1B3LDF</code>
+        <price>300000</price>
+        <for>آقایان و بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1004" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MQ-24-9ELDF</code>
+        <price>300000</price>
+        <for>آقایان و بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1005" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MQ-71-1BDF</code>
+        <price>320000</price>
+        <for>آقایان و بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1006" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MW-240-1BVDF</code>
+        <price>320000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1007" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MQ-24-1BLDF</code>
+        <price>327000</price>
+        <for>آقایان و بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1008" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC81836Q03</code>
+        <price>345000</price>
+        <for>آقایان و بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1009" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>F-201WAM-5AVDF</code>
+        <price>340000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1010" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>F-200W-2ADF</code>
+        <price>392400</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1011" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z0000SC81836V0V</code>
+        <price>395000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1012" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC81816J07</code>
+        <price>395000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1013" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC8183MQ02</code>
+        <price>395000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1014" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC8183IN0V</code>
+        <price>395000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1015" data-group="0">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC8183QB02</code>
+        <price>395000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1016" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>LTP-V001GL-9BUDF</code>
+        <price>436000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1017" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>LTP-V004L-7AUDF</code>
+        <price>440000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1018" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>MTP-V001D-7BUDF</code>
+        <price>457800</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1019" data-group="0">
+        <brand name="کاسیو">Casio</brand>
+        <code>K5217/4</code>
+        <price>460000</price>
+        <for>کودکان و نوجوانان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1020" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5231/1</code>
+        <price>460000</price>
+        <for>کودکان و نوجوانان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1021" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5236/9</code>
+        <price>460000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1022" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5520/5</code>
+        <price>460000</price>
+        <for>کودکان و نوجوانان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+
+    </watch>
+    <watch id="1023" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5557/5</code>
+        <price>460000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1024" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5567/3</code>
+        <price>460000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1025" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5569/3</code>
+        <price>460000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1026" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5586/5</code>
+        <price>460000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1027" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5597/1</code>
+        <price>460000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1028" data-group="0">
+        <brand name="کاسیپو">Calypso</brand>
+        <code>K5599/5</code>
+        <price>460000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1029" data-group="0">
+        <brand name="گواردو">Guardo</brand>
+        <code>0780-5</code>
+        <price>470000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1030" data-group="0">
+        <brand name="گواردو">Guardo</brand>
+        <code>10418-1</code>
+        <price>470000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1031" data-group="0">
+        <brand name="گواردو">Guardo</brand>
+        <code>10592-2</code>
+        <price>470000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <range>0</range>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1032" data-group="1">
+        <brand name="وستار">Westar</brand>
+        <code>W7976STI106</code>
+        <price>600000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">کره جنوبی</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1033" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>LW-200-1AVDF</code>
+        <price>622000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1034" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>LW-200-4AVDF</code>
+        <price>622000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1035" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>W-736H-3AVDF</code>
+        <price>622000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1036" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>W-736H-3AVDF</code>
+        <price>622000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1037" data-group="1">
+        <brand name="گس">Guess</brand>
+        <code>12055L6</code>
+        <price>650000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1039" data-group="1">
+        <brand name="گس">Guess</brand>
+        <code>70607L1</code>
+        <price>650000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1040" data-group="1">
+        <brand name="گس">Guess</brand>
+        <code>70607L2</code>
+        <price>650000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1041" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>W-210-1BVDF</code>
+        <price>670000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1043" data-group="1">
+        <brand name="اوماکس">Casio</brand>
+        <code>Z00SC8181MB02</code>
+        <price>670000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1044" data-group="1">
+        <brand name="اوماکس">OMAX</brand>
+        <code>Z00SC8183QB02</code>
+        <price>670000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1045" data-group="1">
+        <brand name="کاسیو">OMAX</brand>
+        <code>AE-1100W-1AVDF</code>
+        <price>698000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1046" data-group="1">
+        <brand name="گوآردو">Guadro</brand>
+        <code>10617-2</code>
+        <price>490000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1047" data-group="1">
+        <brand name="گوآردو">Guadro</brand>
+        <code>10617-2</code>
+        <price>490000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1048" data-group="1">
+        <brand name="گوآردو">Guadro</brand>
+        <code>3007-3</code>
+        <price>490000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1049" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>LTP-V005D-7B2UDF</code>
+        <price>490000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1050" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>LRW-200H-1BVDF</code>
+        <price>578000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1051" data-group="1">
+        <brand name="کاسیو">Casio</brand>
+        <code>LRW-200H-1BVDF</code>
+        <price>578000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1052" data-group="2">
+        <brand name="ریباک">Rebook</brand>
+        <code>RC-CPD-L2-PKLK-KW</code>
+        <price>1590000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1053" data-group="2">
+        <brand name="گوآردو">Rebook</brand>
+        <code>010444-1</code>
+        <price>1070000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1054" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011070-1</code>
+        <price>1050000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1055" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>0110971-2</code>
+        <price>1370000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1056" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011123-1</code>
+        <price>1540000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1057" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011123-5</code>
+        <price>1650000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1058" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011148-1</code>
+        <price>1090000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1059" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011148-2</code>
+        <price>1090000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1060" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011148-3</code>
+        <price>1190000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1061" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>011148-3</code>
+        <price>1420000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1062" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>0116361-2</code>
+        <price>1310000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1063" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>0116361-1</code>
+        <price>1220000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1064" data-group="2">
+        <brand name="گوآردو">Guadro</brand>
+        <code>0116361-4</code>
+        <price>1370000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ایتالیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1065" data-group="3">
+        <brand name=" ژاک لمن">Jasques Lernans</brand>
+        <code>1-1423H</code>
+        <price>2160000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اتریش</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1066" data-group="3">
+        <brand name=" ژاک لمن">Jasques Lernans</brand>
+        <code>1-1478A</code>
+        <price>2520000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اتریش</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1068" data-group="3">
+        <brand name=" ژاک لمن">Jasques Lernans</brand>
+        <code>1-1485F</code>
+        <price>2880000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اتریش</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1069" data-group="4">
+        <brand name=" سیتیزن">Critizen</brand>
+        <code>BE9174-55E</code>
+        <price>3036000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1070" data-group="4">
+        <brand name=" تایم فورس">TIME FORCE</brand>
+        <code>TF4093L02M</code>
+        <price>3450000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اسپانیا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1071" data-group="4">
+        <brand name=" تایم فورس">TIME FORCE</brand>
+        <code>98242GP05911</code>
+        <price>3450000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1072" data-group="4">
+        <brand name="ژاک لمن">Jacques Lemans</brand>
+        <code>1-1936A</code>
+        <price>3204000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">اتریش</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1073" data-group="4">
+        <brand name="منیجر">Manager</brand>
+        <code>MAN-PS-03-SL-S</code>
+        <price>4650000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1074" data-group="4">
+        <brand name=" فورتیس">Fortis</brand>
+        <code>F 5493.23.36</code>
+        <price>4000000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1075" data-group="4">
+        <brand name=" کاسیو">Casio</brand>
+        <code>GBD-100-1DR</code>
+        <price>4262000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">ژاپن</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1076" data-group="4">
+        <brand name="آیس واچ">Ice Watch</brand>
+        <code>016032</code>
+        <price>3196930</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">بلژیک</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1077" data-group="4">
+        <brand name="آیس واچ">Ice Watch</brand>
+        <code>016774</code>
+        <price>4453450</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">بلژیک</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1078" data-group="4">
+        <brand name=" آندره موشه">ANDRE MOUCHE</brand>
+        <code>023-04161</code>
+        <price>4250000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">سوییس</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب  ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1079" data-group="5">
+        <brand name="مایکل کورس">MICHEL KORS</brand>
+        <code>MK6307</code>
+        <price>10340000</price>
+        <for>بانوان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب ">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+    <watch id="1080" data-group="5">
+        <brand name="فسیل">MICHEL KORS</brand>
+        <code>FS5120</code>
+        <price>5720000</price>
+        <for>آقایان</for>
+        <detail>
+            <nationality data-per-name="ملیت برند ">آمریکا</nationality>
+            <warranty data-per-name="گارانتی  ">دوسال</warranty>
+            <resistance data-per-name="مقاومت در برابر آب">تا عمق 50 متر (فشار 5 برابر)</resistance>
+            <formFrame>دایره</formFrame>
+            <dimensions>42.5 میلی متر</dimensions>
+            <colorPage>نقره ای</colorPage>
+            <materialFrame>استیل ضد زنگ</materialFrame>
+            <colorFrame>نقره ای</colorFrame>
+            <materialStrap>چرم تمساح</materialStrap>
+            <colorStrap>قهوه ای</colorStrap>
+            <materialGlass>یاقوت کبود (Sapphire) با قابلیت ضد بازتاب نور (Anti Reflex)</materialGlass>
+            <lock>قفل پیوسته سه تکه دکمه ای</lock>
+            <closeType>پیچی|آچاری</closeType>
+            <motorTech>اتوماتیک (Hand Winding)</motorTech>
+            <motorCompany>موتور اختصاصی پرله</motorCompany>
+            <motorNumber>یک موتور مکانیکی</motorNumber>
+            <power>انرژی جنبشی آزاد شده فنتول کوک شده توسط روتور گردان</power>
+            <motorView>از طریق درب پانورامای پشت ساعت</motorView>
+            <calender>✔ (دارای نشانگر روزهای ماه)</calender>
+            <bgType>عقربه ایی</bgType>
+        </detail>
+    </watch>
+</root>
